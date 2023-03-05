@@ -78,7 +78,7 @@ public class MenuDespesas {
             System.out.println("Despesa não encontrada.");
             return;
         }
-        System.out.println("------ Despesa encontrada ------");
+        System.out.println("===== Despesa encontrada: =====");
         System.out.println("ID: " + despesa.getId());
         System.out.println("Descrição: " + despesa.getDescricao());
         System.out.println("Valor: " + despesa.getValor());
