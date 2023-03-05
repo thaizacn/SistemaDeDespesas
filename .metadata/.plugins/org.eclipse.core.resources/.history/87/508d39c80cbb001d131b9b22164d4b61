@@ -1,0 +1,5 @@
+package br.com.despesas.dao.impl;
+
+public class DespesaDAOImpl {
+
+}

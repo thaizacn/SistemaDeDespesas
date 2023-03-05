@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\thaiz\OneDrive\Documentos\GITHUB\SistemaDeDespesas\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1686200119.index
+180392363.index

@@ -1,0 +1,12 @@
+package br.com.despesas;
+
+import br.com.despesas.menu.MenuDespesas;
+
+public class MainDespesas {
+	
+	public static void main(String[] args) {
+	    MenuDespesas menu = new MenuDespesas();
+	    menu.exibirMenu();
+	}
+
+}
